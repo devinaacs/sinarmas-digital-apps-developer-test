@@ -1,9 +1,11 @@
 {
   "name": "sinarmas-digital-apps-developer-test",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "React application that calculates the absolute difference between a number and its reverse - Technical assessment for Sinarmas Digital Apps Developer position",
+  "keywords": ["react", "calculator", "number-reverse", "technical-test", "sinarmas"],
   "main": "src/index.js",
+  "author": "Devina Cecilia",
+  "license": "MIT",
   "dependencies": {
     "react": "18.0.0",
     "react-dom": "18.0.0",
@@ -24,5 +26,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
 }
